@@ -1,4 +1,4 @@
-var map = L.map('map').setView([-23.180203, -50.6678355], 13);
+var map = L.map('map').setView([-23.180203, -50.6678355], 13.49);
 
 var redIcon = L.icon({
     iconUrl: "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-red.png",
